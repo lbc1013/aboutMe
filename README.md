@@ -16,9 +16,7 @@ I am a Full-stack software engineering student at <a href='https://www.linkedin.
 - Also you can find out my recent group project <a href='https://github.com/lbc1013/atelier-front-end'>here</a>.
 
 
-
 ### **Front End:**
-
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
@@ -27,7 +25,6 @@ I am a Full-stack software engineering student at <a href='https://www.linkedin.
 ![jQuery](https://img.shields.io/badge/jQuery%20-%230A68AD.svg?&style=flat-square&logo=jquery&logoColor=fff)
 
 ### **Back End:**
-
 ![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20-%23404d59.svg?&style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL%20-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
@@ -36,7 +33,6 @@ I am a Full-stack software engineering student at <a href='https://www.linkedin.
 ![Axios](https://img.shields.io/badge/-Axios-blueviolet)
 
 ### **Testing and Deployment:**
-
 ![Postman](https://img.shields.io/badge/Postman%20-FF6C37?style=flat-square&logo=postman&logoColor=red)
 ![Mocha](https://img.shields.io/badge/-mocha%20-%238D6748?&style=flat-square&logo=mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/Chai%20-%23F6ECD4.svg?&style=flat-square)
