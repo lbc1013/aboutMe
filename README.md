@@ -1,4 +1,4 @@
-### Hi there! I'm ByungChan Lee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there! I'm ByungChan Lee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p>
   <a href="mailto:lbc2415@gmail.com" target="_blank"><img src="https://img.shields.io/badge/lbc2415@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -15,7 +15,7 @@ I am a Full-stack software engineering student at <a href='https://www.linkedin.
 - I’m currently working on <a href='https://github.com/SDC-Team-Flannel/SDC-Product'>SDC (System Design Capstone) project</a>
 - Also you can find out my recent group project <a href='https://github.com/lbc1013/atelier-front-end'>here</a>.
 
-
+## 🔧 Technologies & Tools:
 ### **Front End:**
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -41,7 +41,6 @@ I am a Full-stack software engineering student at <a href='https://www.linkedin.
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23880000.svg?&style=flat-square)
 
 ### **Developer Tools:**
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel%20-F9DC3e?style=flat-square&logo=babel&logoColor=black)
