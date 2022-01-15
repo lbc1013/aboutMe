@@ -13,7 +13,7 @@ I am a Full-stack software engineering student at <a href='https://www.linkedin.
 (Expected graduation date of Feb of 2022)
 
 - I’m currently working on <a href='https://github.com/SDC-Team-Flannel/SDC-Product'>SDC (System Design Capstone) project</a>
-- Also you can find out my recent group project <a href='https://github.com/lbc1013/atelier-front-end'>here</a>.
+- Also, you can find my recent group project <a href='https://github.com/lbc1013/atelier-front-end'>here</a>.
 
 ## 🔧 Technologies & Tools:
 ### **Front End:**
