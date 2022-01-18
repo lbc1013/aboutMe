@@ -28,6 +28,7 @@ I am a Full-stack software engineering student at <a href='https://www.linkedin.
 ![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20-%23404d59.svg?&style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL%20-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%232187B6.svg?&style=flat-square&logo=postgreSQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB%20-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose%20-%23880000.svg?&style=flat-square&logo=mongoose)
 ![Axios](https://img.shields.io/badge/-Axios-blueviolet)
