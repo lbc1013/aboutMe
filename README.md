@@ -12,9 +12,6 @@
 I am a Full-stack software engineering student at <a href='https://www.linkedin.com/school/hack-reactor/'>Hack Reactor's immersive program</a> who made a career transition from the Financial analysis field.
 (Expected graduation date of Feb of 2022)
 
-- I’m currently working on <a href='https://github.com/SDC-Team-Flannel/SDC-Product'>SDC (System Design Capstone) project</a>
-- Also, you can find my recent Front-End Project <a href='https://github.com/lbc1013/atelier-front-end'>here</a>.
-
 ## 🔧 Technologies & Tools:
 ### **Front End:**
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
