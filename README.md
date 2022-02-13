@@ -9,8 +9,7 @@
   
 </p>
 
-I am a Full-stack software engineering student at <a href='https://www.linkedin.com/school/hack-reactor/'>Hack Reactor's immersive program</a> who made a career transition from the Financial analysis field.
-(Expected graduation date : Feb of 2022)
+I am a Full-stack software engineer who made a career transition from the Financial analysis field.
 
 ##### - Recent Projects : 
 - <a href="https://github.com/lbc1013/coffee-match">Coffee Match App</a>
