@@ -10,6 +10,7 @@
 </p>
 
 I am a Full-stack software engineer who made a career transition from the Financial analysis field.
+I am passionate about building products that are easy to use and solve real problems.
 
 ##### - Recent Projects : 
 - <a href="https://github.com/lbc1013/coffee-match">Coffee Match App</a>
