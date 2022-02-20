@@ -13,10 +13,11 @@ I am a Full-stack software engineer who made a career transition from the Financ
 I am passionate about building products that are easy to use and solve real problems.
 
 ##### - Recent Projects : 
+- <a href="https://github.com/hack-curtains">Pantry Chef App</a>
 - <a href="https://github.com/lbc1013/coffee-match">Coffee Match App</a>
 - <a href="https://github.com/lbc1013/SDC-Product">Atelier API</a>
 - <a href="https://github.com/lbc1013/atelier-front-end">Catwalk Frontend</a>
-- <a href="https://github.com/hack-curtains">Pantry Chef App</a>
+
 
 ## 🔧 Technologies & Tools:
 ### **Front End:**
