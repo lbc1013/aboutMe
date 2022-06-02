@@ -1,4 +1,4 @@
-## Hi there! I'm ByungChan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
+## Hi there! I'm ByungChan
 
 <p>
   <a href="mailto:lbc2415@gmail.com" target="_blank"><img src="https://img.shields.io/badge/lbc2415@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
