@@ -7,11 +7,6 @@
 
 <img src='https://64.media.tumblr.com/1bc9bc103eb980bc035432fa024da714/tumblr_ms9dtw4JdF1rk5zfdo1_400.gifv'></img>
   
-</p>
-
-I am a Full-stack software engineer who made a career transition from the Financial analysis field.
-I am passionate about building products that are easy to use and solve real problems.
-
 ##### - Recent Projects : 
 - <a href="https://github.com/hack-curtains">Pantry Chef (Full-stack)</a>
 - <a href="https://github.com/lbc1013/coffee-match">Coffee Match (Full-stack)</a>
