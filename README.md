@@ -10,7 +10,7 @@
 - <a href="https://github.com/lbc1013/atelier-front-end">Catwalk (Frontend)</a>
 
 ##### - Currently working on a side project building MSA using Java, Spring Cloud, Kafka, and Docker.
-- <a href="https://github.com/lbc1013/msa_onlineShop">msa_onlineShop (Java-Backend)</a>
+- <a href="https://github.com/lbc1013/msa_onlineShop">Msa_onlineShop (Java-Backend)</a>
 
 <p>
   <a href="mailto:lbc2415@gmail.com" target="_blank"><img src="https://img.shields.io/badge/lbc2415@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
